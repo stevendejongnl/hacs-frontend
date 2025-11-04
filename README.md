@@ -8,3 +8,5 @@ A custom card for Home Assistant Lovelace UI to display Changedetection.io monit
 Temperature Comparison Card
 =========================
 A custom card for Home Assistant Lovelace UI to compare indoor and outdoor temperatures.
+
+![Temperature Comparison Card](./screenshots/temperature-comparison-card.png)
