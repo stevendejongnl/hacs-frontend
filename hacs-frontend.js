@@ -1,5 +1,5 @@
-# Home Assistant Frontend Scripts
-
+// Placeholder file for hacs-frontend.js
+/*
 Changedetection List Card
 =========================
 A custom card for Home Assistant Lovelace UI to display Changedetection.io monitored items.
@@ -8,3 +8,4 @@ A custom card for Home Assistant Lovelace UI to display Changedetection.io monit
 Temperature Comparison Card
 =========================
 A custom card for Home Assistant Lovelace UI to compare indoor and outdoor temperatures.
+*/
