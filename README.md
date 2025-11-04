@@ -1,1 +1,1 @@
-# hacs-frontend
+# Home Assistant Frontend Scripts
